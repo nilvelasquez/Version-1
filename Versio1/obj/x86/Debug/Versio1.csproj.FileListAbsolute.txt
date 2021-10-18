@@ -1,0 +1,8 @@
+D:\UPC\SO\Versio 1\Versio1\Versio1\bin\Debug\Versio1.exe
+D:\UPC\SO\Versio 1\Versio1\Versio1\bin\Debug\Versio1.pdb
+D:\UPC\SO\Versio 1\Versio1\Versio1\obj\x86\Debug\Versio1.csprojResolveAssemblyReference.cache
+D:\UPC\SO\Versio 1\Versio1\Versio1\obj\x86\Debug\Versio1.Form1.resources
+D:\UPC\SO\Versio 1\Versio1\Versio1\obj\x86\Debug\Versio1.Properties.Resources.resources
+D:\UPC\SO\Versio 1\Versio1\Versio1\obj\x86\Debug\Versio1.csproj.GenerateResource.Cache
+D:\UPC\SO\Versio 1\Versio1\Versio1\obj\x86\Debug\Versio1.exe
+D:\UPC\SO\Versio 1\Versio1\Versio1\obj\x86\Debug\Versio1.pdb
